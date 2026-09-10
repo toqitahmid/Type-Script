@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "outDir": "asstes/js",
+        "rootDir": "./",
+        "noEmitOnError": true,
+    }
+}
